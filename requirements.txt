@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+anthropic
+aspose.pdf
+python-dotenv
+pydantic
+firebase-admin
+pandas
+python-multipart
